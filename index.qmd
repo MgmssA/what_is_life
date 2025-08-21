@@ -198,7 +198,7 @@ Reiche die Antworten als digitales Dokument ein und verwende keine Schreibschrif
 
 #. Erläutere den Zusammenhang zwischen **Wachstum** und **Reproduktion**.
 
-#. Was wächst mindestens während des Wachstums und warum? 
+#. Was muss auf jeden Fall innerhalb der biologischen Einheit in @fig-growth wachsen und warum? 
 
 #. Was sorgt jeweils für die schnelle und die langsame Anpassung?
 
