@@ -9,7 +9,7 @@ subtitle: |
     Abgabetermin: 2025-08-28 (Doppelrohr bei Nichteinreichen am Termin)
 date: 2025-08-05 
 date-modified: 2025-08-21
-author: Călin Drăgan
+author: Călin Drăgan  
 lang: de 
 abstract: 'Die Biologie beschäftigt sich mit einem der komplexesten Organisationsformen von Materie: Leben. Dabei untersucht sie die Strukturen, Beziehungen und Prozessen des Lebendigen, die selbst mehrere Größenordnungen abdecken können. Es sind einige wenige fundamentale Eigenschaften von lebenden Systemen ausreichend, um die gesamte Biologie zu verstehen.'
 title-block-banner: true
